@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artist Community</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to the Artist Community</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="submit.html">Submit Artwork</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Our Mission</h2>
+            <p>To connect artists and showcase their work to a broader audience.</p>
+        </section>
+        <section>
+            <h2>Featured Artists</h2>
+            <p>Check out the amazing work from our talented artists!</p>
+        </section>
+        <section>
+            <h2>How to Submit Artwork</h2>
+            <p>We welcome submissions from artists! Please follow these steps:</p>
+            <ol>
+                <li>Prepare your artwork in a digital format (JPEG, PNG, etc.).</li>
+                <li>Include a brief description of your work.</li>
+                <li>Email your submission to <a href="mailto:your-email@example.com">your-email@example.com</a>.</li>
+                <li>We will review your submission and get back to you!</li>
+            </ol>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Artist Community</p>
+    </footer>
+</body>
+</html>
