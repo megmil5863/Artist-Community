@@ -44,8 +44,11 @@ The website uses a clean white background with dark blue text to create a profes
 
 ## Author
 
-Created by [Your Name]
+Created by [Megan Miller]
 
 ## Date
+
+<img width="1918" height="1028" alt="Screenshot 2026-06-14 173316" src="https://github.com/user-attachments/assets/5d4206f1-996b-46d6-938b-b4bb8f4f5792" />
+
 
 June 2026
