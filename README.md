@@ -1,35 +1,51 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Artist Community</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-        <h1>Welcome to the Artist Community</h1>
-        <nav>
-            <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="gallery.html">Gallery</a></li>
-                <li><a href="about.html">About</a></li>
-                <li><a href="contact.html">Contact</a></li>
-            </ul>
-        </nav>
-    </header>
-    <main>
-        <section>
-            <h2>Our Mission</h2>
-            <p>To connect artists and showcase their work to a broader audience.</p>
-        </section>
-        <section>
-            <h2>Featured Artists</h2>
-            <p>Check out the amazing work from our talented artists!</p>
-        </section>
-    </main>
-    <footer>
-        <p>&copy; 2023 Artist Community</p>
-    </footer>
-</body>
-</html>
+# Artist Community Website
+
+## Project Overview
+
+The Artist Community Website is designed to help artists share their work with a larger audience. The goal of this website is to create an online community where artists can showcase their artwork, connect with others, and learn how to submit their work for consideration.
+
+## Features
+
+* Home page with a welcome message
+* Navigation menu linking to multiple pages
+* Mission statement describing the purpose of the community
+* Featured Artists section
+* How to Submit Artwork section with submission instructions
+* Responsive design for desktop, tablet, and mobile devices
+* Contact and additional pages planned for future development
+
+## Technologies Used
+
+* HTML5
+* CSS3
+* Flexbox
+* Responsive Web Design
+
+## Design Choices
+
+The website uses a clean white background with dark blue text to create a professional and easy-to-read appearance. The header and footer use a dark blue color scheme for consistency, while content sections use a light gray background to separate information visually.
+
+## Pages
+
+* Home (`index.html`)
+* Gallery (`gallery.html`)
+* About (`about.html`)
+* Contact (`contact.html`)
+* Submit Artwork (`submit.html`)
+
+## Future Improvements
+
+* Artist submission form
+* Artwork gallery with images
+* Artist profiles
+* Search and filtering options
+* Community discussion forum
+* Featured artist spotlight section
+
+## Author
+
+Created by [Your Name]
+
+## Date
+
+June 2026
